@@ -1,0 +1,12 @@
+header {
+    background: #190B28;
+    color: white;
+    text-align: center;
+}
+header marquee {
+    color: #efa9ae;
+}
+header img {
+    width: 200px;
+    border-radius: 50%;
+}
